@@ -1,0 +1,47 @@
+------------Reporte de faltante de accidentes------------------------
+------------Reporte de accidentes por Distrito------------------------
+Distrito: Barrancas: 0
+Distrito: Cdad de Maipu: 4
+Distrito: Coquimbito: 1
+Distrito: Cruz de Piedra: 0
+Distrito: Fray Luis Beltran: 0
+Distrito: Gral Gutierrez: 0
+Distrito: Lunlunta: 0
+Distrito: Luzuriaga: 0
+Distrito: Microcentro: 0
+Distrito: Ortega: 0
+Distrito: Rodeo Del Medio: 0
+Distrito: Russell: 0
+Distrito: San Roque: 0
+Cantidad de accidentes: 5
+------------------Accidentes clasificados por lugar de ocurrencia------------------
+TROPERO SOSA 1399 (A 20 MTS AL OESTE DE JERONIMO RUIZ) : 1
+PADRE VAZQUEZ Y CORREA : 2
+MENDOZA Y SANTA FE : 1
+PABLO PESCARA Nº 1241 : 1
+La cantidad de accidentes procesados son: 5
+------------Reporte de accidentes por Horario------------------------
+Horario 00:00-02:00, total: 0
+Horario 02:01-04:00, total: 0
+Horario 04:01-06:00, total: 0
+Horario 06:01-08:00, total: 0
+Horario 08:01-10:00, total: 2
+Horario 10:01-12:00, total: 0
+Horario 12:01-14:00, total: 2
+Horario 14:01-16:00, total: 0
+Horario 16:01-18:00, total: 1
+Horario 18:01-20:00, total: 0
+Horario 20:01-22:00, total: 0
+Horario 22:01-23:59, total: 0
+La cantidad de accidentes son: 5
+------------Reporte de accidentes por donde se toma------------------------
+En lugar del hecho: 5 / En dependencia: 0
+Cantidad de accidetes: 5
+------------Reporte de accidentes por Consecuencia------------------------
+Con lesiones: 4 / Sin lesiones: 1
+Cantidad de accidetes: 5
+------------Reporte de accidentes por Tipo de Colision------------
+Tipo de colision: Oblicua Anterior = 3
+Tipo de colision: ALCANCE = 1
+Tipo de colision: Perpendicular Anterior = 1
+Cantidad de accidentes procesados: 5
